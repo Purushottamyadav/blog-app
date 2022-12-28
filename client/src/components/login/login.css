@@ -1,0 +1,36 @@
+.App-header {
+    width: 564px;
+    height:500px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 470px;
+    margin-top: 120px;
+    text-align: center;
+}
+.app-logo{
+    color: #03045e;
+}
+.login-context{
+    margin: 10px;
+    height:54px;
+    width: 450px;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: rgba(190, 184, 184, 0.5);
+    padding-left:20px;
+    font-size: large;
+    padding-left: 15px;
+}
+
+.login-page{
+    width: 100%;
+    height:765px;
+    background-color: #7fd2dc;
+    display: inline-block;
+}
+#navi-register{
+    color: #03045e;
+    font-size: 15px;
+    cursor: pointer;
+}
